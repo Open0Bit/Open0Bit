@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou Gabriel Weverton (Open0Bit)
+# 👋 Olá, eu sou Gabriel W. Soares (Open0Bit)
 
-**Engenheiro de Software | Automação Financeira | Criador do SIOEI**
+**Engenheiro de Software | Automação Financeira | Criador do Aegra Chrona**
 
 Desenvolvedor especializado em automação de estratégias, engenharia de portfólios e sistemas inteligentes aplicados ao mercado financeiro.  
 Transformo dados caóticos em decisões inteligentes, robôs disciplinados e plataformas que funcionam — mesmo quando o mercado decide não colaborar.
 
 ---
 
-## 🏢 Sobre mim (versão corporativa com personalidade)
+## 🏢 Sobre mim
 
 Sou um engenheiro de software com experiência sólida em:
 
