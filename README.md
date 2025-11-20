@@ -75,7 +75,7 @@ Códigos para telemetria, cálculos financeiros, DDL da B3, otimizações e auto
 gabriel.weverton.soares@gmail.com  
 🔗 LinkedIn:
 www.linkedin.com/in/gabsonfire.  
-🟦 ORCID:
+🟦 ORCID:  
 https://orcid.org/0009-0002-1843-917X
 
 ---
